@@ -1,0 +1,42 @@
+#numberbox {
+	margin:50px 100px;
+}
+
+.number {
+    height: 100px;
+    width: 100px;
+    background-color:transparent;
+    border: 2px solid #000;
+    margin: 5px;
+    line-height: 100px;
+    display: inline-block;
+    border-radius: 50%;
+    text-align: center;
+    border: 2px solid #000;
+    font-size: 30px;
+
+   }
+
+#starbox {
+
+	min-height: 300px;
+    min-width: 400px;
+    background-color:transparent;
+    border: 2px solid #000;
+    margin:100px 100px;
+
+    
+}
+
+#displayboard {
+
+	 height: 60px;
+    width: 200px;
+    border: 2px solid #000;
+    margin-left: 100px
+    
+	
+}
+.star{
+    display: inline-block;
+}
