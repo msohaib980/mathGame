@@ -1,9 +1,13 @@
+
+}
 #numberbox {
-	margin:50px 100px;
+	width: 400px;
+	height: 100px;
+	border: 2px solid green ;
 }
 
-.number {
-    height: 100px;
+.numbers {
+	height: 100px;
     width: 100px;
     background-color:transparent;
     border: 2px solid #000;
@@ -15,7 +19,8 @@
     border: 2px solid #000;
     font-size: 30px;
 
-   }
+
+}
 
 #starbox {
 
@@ -28,15 +33,10 @@
     
 }
 
-#displayboard {
-
-	 height: 60px;
-    width: 200px;
-    border: 2px solid #000;
-    margin-left: 100px
-    
-	
+.star {
+	display: inline-block;;
 }
-.star{
-    display: inline-block;
+
+.select {
+	background-color: red;
 }
